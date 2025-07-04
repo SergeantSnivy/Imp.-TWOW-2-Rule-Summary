@@ -66,6 +66,7 @@ Players have a 2.5% chance for their rank to be "reversed". 1% chance to change 
 Top 10% get to remove one rule (in total). (R23, R59)
 **If your boost is less than 30%, you are eliminated. For 🐺s, this becomes 60%.** (R68, R48)
 **The lowest contestant in terms of `(|% boosts/penalties you get this round|)+([numberofcontestants]-[placementlastround])` is eliminated. For 🐺s, if you are in the bottom 2, you die.** (R77, R48)
+**The middle 3 players (or 4 if an even number of players submitted) are eliminated.** (R106)
 The top 20% may each "ban" a word. All banned words will cause a -5% boost if used in your response. (R91)
 After results, numbers in rules have a 50% chance of multiplying by x1.25 or by x0.75. (R75)
 
