@@ -38,6 +38,7 @@ You may start 20 Questions with me. +20%, -1 per question it takes you to get th
 You may submit a list of contestants equal or less in size to the amount who place in the top 20% that round. +2% per correct guess, -1% per incorrect guess. (R95)
 -0.5% for every "e" in your response (case-??sensitive). (R102)
 +5% if you use any word at least twice in your response. (R103)
+-5% if you mention Rule 104. (R104)
 You may gain any above boost for free, but if at least 9 other players use this ability, you will take an equivalent penalty instead. (R84, R101)
 If a technical is completed by <50% of people, its boost doubles. This does not apply to scaling technicals. (R92)
 
