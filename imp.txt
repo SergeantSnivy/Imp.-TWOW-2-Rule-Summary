@@ -36,7 +36,7 @@ x1.1 score if your response contains a stone and a bone. (R80)
 You may submit a song. +3% if I rate it an 8/10 or above.  (R89)
 You may start 20 Questions with me. +20%, -1 per question it takes you to get the correct answer. If you don't get it after 20 questions, or if you don't finish it, your boost for this is 0%. (R93)
 You may submit a list of contestants equal or less in size to the amount who place in the top 20% that round. +2% per correct guess, -1% per incorrect guess. (R95)
-You may gain any above boost for free, but if someone else takes the same boost, you will both be penalized. (R84)
+You may gain any above boost for free, but if at least 9 other players use this ability, you will take an equivalent penalty instead. (R84, R101)
 If a technical is completed by <50% of people, its boost doubles. This does not apply to scaling technicals. (R92)
 
 ## __Responding__
