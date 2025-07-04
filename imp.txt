@@ -101,5 +101,7 @@ You may not use a booksona. Instead, you must use a Fleetsona. Fleetsona templat
 Time-based effects under 1 day in length give 1 day grace once activated. (R35)
 If your server nickname contains 👶, you may not be eliminated, and if your server nickname contains 🐺, your elimination rate is 2x as harsh. (R48)
 The TWOW's name is Meowy's Big TWOW. Everything is bigger. (R87)
+Every round, a random boost/penalty-providing rule has its effects inverted. (R96)
+Every round, a random boost-providing rule has its boost multiplied by 0.75. (R111)
 If a rule involves including a string, said string becomes a different random string of similar length every round. (R90)
 Yuri is recommended. (R21)
