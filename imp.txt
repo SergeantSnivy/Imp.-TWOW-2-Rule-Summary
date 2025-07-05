@@ -29,7 +29,7 @@ x1.2 score if you solve the puzzle I post with the prompt (R47, R59, R110, R113)
 +40% if you win a duel, +8% if you lose a duel, and -28% if you do not participate in a duel. Duels can be between any two contestants (Max. 1 duel per contestant) (R66, R110, R113)
 +4% per code you find. Codes are six-letter non-word strings contained within the server or within links accessible from the server [e.g. "deombf"]. There are 15 codes. (R70, R110, R113)
 +20% per use of the word "bird" in your response. If you use "bird" at least 20 times, your boosts from R72 become penalties. (R72, R110, R113)
-+1% per life you have. (max. 20) (R73, R110, R113)
++1% per life you have. (R73)
 +4% per word containing X you have (max 60%) (R74, R110, R113)
 x1.4 score if your response contains 2 stones and 2 bones. (R80, R110, R113)
 +31.08% if your response contains a Gen Alpha brainrot term. (R85, R110, R113)
@@ -65,6 +65,7 @@ Every B will be replaced with 8. (R62)
 ## __Results__
 Players have a 10% chance for their rank to be "reversed". 4% chance to change it back. (R18, R59, R61, R110, R113)
 Top 10% get to remove one rule (in total). (R23, R59)
+The top 20% gain a life. The bottom 20% lose a life. (R73)
 **If your boost is less than 120%, you are eliminated. For 🐺s, this becomes 240%.** (R68, R48, R110, R113)
 **The lowest contestant in terms of `(|% boosts/penalties you get this round|)+([numberofcontestants]-[placementlastround])` is eliminated. For 🐺s, if you are in the bottom 2, you die.** (R77, R48)
 **The middle 3 players (or 4 if an even number of players submitted) are eliminated.** (R106)
@@ -94,6 +95,9 @@ The winner of each round gains one 🍰. (R97)
 Emojis in responses give social credit (once per emoji per response). 🇨🇳🧑‍🏫🧑‍🎓👷🧑‍🏭🧑‍🔬🐉 give +40, and  🇹🇼🧑‍🎨🗽✝️☪️✡️💹 give -3996. (R65, R110, R113)
 Every correct guess in <#1372986479499808891> gives +20 social credit. (R67, R110, R113)
 You may exchange 400 social credit points for one rule of length 2000 characters. (R99, R110, R113)
+
+## __Misc. Statuses__
+Players start with 3 "lives" and can have at most 20. (R73, R110, R113)
 
 ## __Other__
 You may join “Team Host”. All “Team Host” members win if and only if <@287035668151009280> wins. (R34)
