@@ -89,7 +89,9 @@ The top 10% NR each round collude to make one extra rule, with the character lim
 
 ## __Win Condition__
 You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: ? (R64, R63, R108)
-The winner of each round gains one 🍰. (R97)
+The winner of each round gains 🍰 (🔘). (R97)
+If your response has the longest valid unique English word across all responses, gain one 🍰. (R116)
+
 
 ## __Social Credit__
 +2% per 40 social credit points you have (R30, R59, R110, R113)
