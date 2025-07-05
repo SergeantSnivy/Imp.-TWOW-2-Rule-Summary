@@ -102,6 +102,7 @@ If your response has the longest valid unique English word across all responses,
 If your response has the highest standard deviation, gain one 🍰. (R117)
 Solve the puzzle to gain one 🍰. (R121)
 Respond at least 2️⃣0️⃣ hours before the deadline to gain one 🍰. (R123)
+For each vote on your response above 7️⃣5️⃣%, earn 1️⃣ 🍰. (R137)
 
 
 
