@@ -112,6 +112,7 @@ Emojis in responses give social credit (once per emoji per response). 🇨🇳�
 Every correct guess in <#1372986479499808891> gives +20 social credit. (R67, R110, R113)
 You may exchange 400 social credit points for one rule of length 2000 characters. (R99, R110, R113)
 Each time you give Fleet a genuine, unique compliment, gain 1 social credit. (R138)
+Respond to gain 10 social credit. (R141)
 
 ## __Misc. Statuses__
 Players start with 3 "lives" and can have at most 20. (R73, R110, R113)
