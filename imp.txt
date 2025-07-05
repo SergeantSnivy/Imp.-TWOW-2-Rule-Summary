@@ -129,6 +129,7 @@ You may not use a booksona. Instead, you must use a Fleetsona. Fleetsona templat
 If you win the round, you earn a funny hat for your Fleetsona. (R136)
 Time-based effects under 1 day in length give 1 day grace once activated. (R35)
 If your server nickname contains 👶, you may not be eliminated, and if your server nickname contains 🐺, your elimination rate is 2x as harsh. (R48)
+If your server nickname contains 👶, you are ineligible for 🔘🍰 or anything awarded to the top 10%/20%. (R150)
 The TWOW's name is Meowy's Big CSC. Everything is bigger. (R87, R130)
 Every round, a random boost/penalty-providing rule has its effects inverted. (R96)
 Every round, a random boost-providing rule has its boost multiplied by ???. (R111, R113)
