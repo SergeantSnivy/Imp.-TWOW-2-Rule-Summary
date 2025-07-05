@@ -47,6 +47,7 @@ If a technical is completed by <50% of people, its boost doubles. This does not 
 ## __Responding__
 The prompt begins with "wyd if". (R50)
 Your response must be less than 40 words; all words after that will be truncated. (R16, R36, R24, R59, R110, R113)
+Emojis count as 1/5 of a character. (R118)
 All ending punctuation is replaced with "?" (after technicals are checked) (R32)
 All responses have "Worchestershire" appended (after technicals and word limit are checked) (R100)
 All responses have "Did You Know? " added to the start (after technicals and word limit are checked) (R105)
