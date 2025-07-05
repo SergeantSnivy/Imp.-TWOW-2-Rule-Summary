@@ -89,6 +89,7 @@ For every 20% of boost you get, your rule character limit is increased by 4. (R4
 You may make infinite rules. Rule character limits apply to the sum of all rules. (R86)
 Emojis do not count towards the rule length limit. You may only have up to 60 emojis per rule. (R40, R110, R113)
 If you send fewer than 2️⃣ rules, your rule character limit is increased by 2️⃣5️⃣. (R122)
+For every 30 rule characters you give up, gain 3% next round. (R147)
 A random rule from CatTWOW S2 and Impossible TWOW S1 is added to the rules every round. (R49)
 For every deleted rule, a rule from Impossible TWOW S1 is added. (R69)
 Fleet will pick a Quote Of The Round when the prompt releases. The top 3 rebus puzzles for the QOTR will gain +100 rule characters. (R71, R110, R113)
