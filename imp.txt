@@ -41,6 +41,7 @@ You may submit a list of contestants equal or less in size to the amount who pla
 +10% if you use any word at least twice in your response. (R103, R113)
 -10% if you mention Rule 104. (R104, R113)
 +5% if you get someone to ask what Rule 114 is. (R114)
+x2️⃣ score if your response has at most 4️⃣9️⃣ words. (R120)
 You may gain any above boost for free, but if at least 18 other players use this ability, you will take an equivalent penalty instead. (R84, R101, R113)
 If a technical is completed by <50% of people, its boost doubles. This does not apply to scaling technicals. (R92)
 
