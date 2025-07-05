@@ -105,6 +105,7 @@ After all character-adding rules are applied, your rule character limit is halve
 All technical rules, except any involving Invisible Rules, have their effect halved after one round and lose all effect after two rounds. (R155)
 
 ## __Win Condition__
+Eliminated contestants cannot win. (R156)
 You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: ? (R64, R63, R108)
 The winner of each round gains 🍰 (🔘). (R97)
 If your response has the longest valid unique English word across all responses, gain one 🍰. (R116)
