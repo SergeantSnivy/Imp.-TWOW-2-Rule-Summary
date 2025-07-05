@@ -70,6 +70,7 @@ You may submit voting aesthetics to be used on your response only. They must be 
 Your vote weight is 1+2*(your total NR, starting in Round 2). (R41, R59, R110, R113)
 Responses will be put into Google Translate through 40 iterations before voting. (R81, R110, R113)
 Every B will be replaced with 8. (R62)
+All text in voting is written in Comic Sans. (R149)
 
 ## __Results__
 Players have a 10% chance for their rank to be "reversed". 4% chance to change it back. (R18, R59, R61, R110, R113)
