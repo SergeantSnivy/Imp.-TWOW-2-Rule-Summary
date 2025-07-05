@@ -44,7 +44,7 @@ You may submit a list of contestants equal or less in size to the amount who pla
 x2️⃣ score if your response has at most 4️⃣9️⃣ words. (R120)
 +15% if you review every response. -10% if Fleet finds anything you say negative or insincere. (R127)
 +3% if your response contains a reference to Undertale or Deltarune. (R139)
-+5% if your response contains a Balatro reference. (R144)
++5% if your response contains a Balatro reference. (R143)
 You may gain any above boost for free, but if at least 18 other players use this ability, you will take an equivalent penalty instead. (R84, R101, R113)
 If a technical is completed by <50% of people, its boost doubles. This does not apply to scaling technicals. (R92)
 
