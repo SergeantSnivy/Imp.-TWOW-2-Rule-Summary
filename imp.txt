@@ -43,6 +43,7 @@ You may submit a list of contestants equal or less in size to the amount who pla
 +5% if you get someone to ask what Rule 114 is. (R114)
 x2️⃣ score if your response has at most 4️⃣9️⃣ words. (R120)
 +15% if you review every response. -10% if Fleet finds anything you say negative or insincere. (R127)
++3% if your response contains a reference to Undertale or Deltarune. (R139)
 You may gain any above boost for free, but if at least 18 other players use this ability, you will take an equivalent penalty instead. (R84, R101, R113)
 If a technical is completed by <50% of people, its boost doubles. This does not apply to scaling technicals. (R92)
 
@@ -103,8 +104,6 @@ If your response has the highest standard deviation, gain one 🍰. (R117)
 Solve the puzzle to gain one 🍰. (R121)
 Respond at least 2️⃣0️⃣ hours before the deadline to gain one 🍰. (R123)
 For each vote on your response above 7️⃣5️⃣%, earn 1️⃣ 🍰. (R137)
-
-
 
 ## __Social Credit__
 +2% per 40 social credit points you have (R30, R59, R110, R113)
