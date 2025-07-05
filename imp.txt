@@ -86,7 +86,7 @@ All rules after R82 will have "JK!!!" appended. This has no effect on the rules,
 The top 10% NR each round collude to make one extra rule, with the character limit being the mean character limit of everyone. (R88)
 
 ## __Win Condition__
-You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner will gain one 🍰. (R64, R63)
+You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: ? (R64, R63, R108)
 The winner of each round gains one 🍰. (R97)
 
 ## __Social Credit__
