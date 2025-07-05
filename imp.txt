@@ -90,6 +90,7 @@ Fleet will pick a Quote Of The Round when the prompt releases. The top 3 rebus p
 N% of your unused rules' characters (starting R3) are added to your rule character limit next round, where N is your NR next round. (R79, R83)
 All rules after R82 will have "JK!!!" appended. This has no effect on the rules, and does not contribute to the character limit. (R82)
 The top 10% NR each round collude to make one extra rule, with the character limit being the mean character limit of everyone. (R88)
+Before results, pick a rule that grants a boost or penalty: the most commonly picked rule has its effect quadrupled. (R128)
 
 ## __Win Condition__
 You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: ? (R64, R63, R108)
