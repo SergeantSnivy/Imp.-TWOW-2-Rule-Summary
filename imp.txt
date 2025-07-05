@@ -111,6 +111,7 @@ You may exchange 400 social credit points for one rule of length 2000 characters
 
 ## __Misc. Statuses__
 Players start with 3 "lives" and can have at most 20. (R73, R110, R113)
+Players start with 3 "hearts". **If you reach 0 hearts, you are eliminated.** (R131, R132)
 
 ## __Other__
 You may join “Team Host”. All “Team Host” members win if and only if <@287035668151009280> wins. (R34)
