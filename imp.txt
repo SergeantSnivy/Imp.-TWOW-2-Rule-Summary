@@ -50,6 +50,7 @@ If a technical is completed by <50% of people, its boost doubles. This does not 
 The prompt begins with "wyd if". (R50)
 The prompt is an image. (R129)
 Your response must be less than 40 words; all words after that will be truncated. (R16, R36, R24, R59, R110, R113)
+Your response can have at most 100 characters. (R135)
 Emojis count as 1/5 of a character. (R118)
 All ending punctuation is replaced with "?" (after technicals are checked) (R32)
 All responses have "Worchestershire" appended (after technicals and word limit are checked) (R100)
