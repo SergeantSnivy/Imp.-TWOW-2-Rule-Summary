@@ -95,7 +95,8 @@ You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define 
 The winner of each round gains 🍰 (🔘). (R97)
 If your response has the longest valid unique English word across all responses, gain one 🍰. (R116)
 If your response has the highest standard deviation, gain one 🍰. (R117)
-If you solve the puzzle, gain one 🍰. (R121)
+Solve the puzzle to gain one 🍰. (R121)
+Respond at least 2️⃣0️⃣ hours before the deadline to gain one 🍰. (R123)
 
 
 ## __Social Credit__
