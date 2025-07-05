@@ -121,6 +121,7 @@ Players start with 3 "hearts". **If you reach 0 hearts, you are eliminated.** (R
 
 ## __Other__
 You may join “Team Host”. All “Team Host” members win if and only if <@287035668151009280> wins. (R34)
+Team Host can't have more than 8 members. (R146)
 You may not use a booksona. Instead, you must use a Fleetsona. Fleetsona templates can be found in ⁠fleetsona-templates (R20)
 If you win the round, you earn a funny hat for your Fleetsona. (R136)
 Time-based effects under 1 day in length give 1 day grace once activated. (R35)
