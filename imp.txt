@@ -82,6 +82,7 @@ The bottom 50% lose one heart. The bottom 25% lose another. The bottom 12.5% los
 **The lowest contestant in terms of `(|% boosts/penalties you get this round|)+([numberofcontestants]-[placementlastround])` is eliminated. For 🐺s, if you are in the bottom 2, you die.** (R77, R48)
 **The middle 3 players (or 4 if an even number of players submitted) are eliminated.** (R106)
 **If your response is the shortest or longest, you are eliminated.** (R107)
+**Eliminated players who earn over 70% in raw score become alive.** (R152)
 The top 20% may each "ban" a word. All banned words will cause a -5️⃣% boost if used in your response. (R91)
 After results, numbers in rules have a 50% chance of multiplying by x?? or by x??. (R75, R110, R113)
 
