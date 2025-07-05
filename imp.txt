@@ -111,6 +111,7 @@ For each vote on your response above 7️⃣5️⃣%, earn 1️⃣ 🍰. (R137)
 Emojis in responses give social credit (once per emoji per response). 🇨🇳🧑‍🏫🧑‍🎓👷🧑‍🏭🧑‍🔬🐉 give +40, and  🇹🇼🧑‍🎨🗽✝️☪️✡️💹 give -3996. (R65, R110, R113)
 Every correct guess in <#1372986479499808891> gives +20 social credit. (R67, R110, R113)
 You may exchange 400 social credit points for one rule of length 2000 characters. (R99, R110, R113)
+Each time you give Fleet a genuine, unique compliment, gain 1 social credit. (R138)
 
 ## __Misc. Statuses__
 Players start with 3 "lives" and can have at most 20. (R73, R110, R113)
