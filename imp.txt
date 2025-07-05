@@ -101,6 +101,7 @@ N% of your unused rules' characters (starting R3) are added to your rule charact
 All rules after R82 will have "JK!!!" appended. This has no effect on the rules, and does not contribute to the character limit. (R82)
 The top 10% NR each round collude to make one extra rule, with the character limit being the mean character limit of everyone. (R88)
 Before results, pick a rule that grants a boost or penalty: the most commonly picked rule has its effect quadrupled. (R128)
+After all character-adding rules are applied, your rule character limit is halved. You will still have 25 characters at minimum. (R153)
 
 ## __Win Condition__
 You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: ? (R64, R63, R108)
