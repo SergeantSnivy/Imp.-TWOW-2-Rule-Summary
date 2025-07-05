@@ -59,7 +59,6 @@ All responses have "Worchestershire" appended (after technicals and word limit a
 All responses have "Did You Know? " added to the start (after technicals and word limit are checked) (R105)
 A random noun, verb, adjective, or adverb in two responses will be swapped. (R29)
 You may send a drawing of your response alongside it. It will be shown in results. (R38)
-You may form a temporary team, sharing a response and NR. You may not team with the same player more than once. (R42, R124)
 If you use any letter more than 10 times in your response, the 11th+ instances are replaced with "Lol!" (R78)
 The host will compete seriously. She cannot vote. (R76)
 **If your response contains the word "death", you die. 🐺: If your response contains the substring "death", you die.** (R53, R48)
