@@ -47,6 +47,10 @@ x2️⃣ score if your response has at most 4️⃣9️⃣ words. (R120)
 +5% if your response contains a Balatro reference. (R143)
 You may play Prisoner's Dilemma with up to two players per round. Ally/Ally = +2%, Ally/Betray = +5%/-5%, Betray/Betray = -3%. (R148)
 You may solicit 10 words of advice from Fleet for gaining boost. If you do, -5%. (R151)
+The following words/phrases (case-insensitive) grant the following boosts/penalties with a maximum total of 25% (R158):
+- +6% each: "Mild", "Medium", "Hot", "Wild", "Buffalo", "Teriyaki"
+- +15% each: "Caribbean Jerk", "Lemon Pepper", "Spicy Garlic", "Asian Zing"
+- -9,999,999% each: "Vegan", "Woke Agenda", "Joe Biden", "Wingstop", "Zaxby's", "Man, I'm really not feeling like beers or wings or sports today."
 You may gain any above boost for free, but if at least 18 other players use this ability, you will take an equivalent penalty instead. (R84, R101, R113)
 If a technical is completed by <50% of people, its boost doubles. This does not apply to scaling technicals. (R92)
 
@@ -105,7 +109,7 @@ All technical rules, except any involving Invisible Rules, have their effect hal
 
 ## __Win Condition__
 Eliminated contestants cannot win. (R156)
-You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: ? (R64, R63, R108)
+You win if you have the most 🍰 by the end of Round 7. Rules with 🔘 define systems where the winner gains n 🍰, where n = the maximum 🍰 awarded by a single pass of any rule. Current n: 1 (R64, R63, R108)
 The winner of each round gains 🍰 (🔘). (R97)
 If your response has the longest valid unique English word across all responses, gain one 🍰. (R116)
 If your response has the highest standard deviation, gain one 🍰. (R117)
@@ -113,6 +117,7 @@ Solve the puzzle to gain one 🍰. (R121)
 Respond at least 2️⃣0️⃣ hours before the deadline to gain one 🍰. (R123)
 You may exchange 250 social credit points for 1 🍰. (R125)
 For each vote on your response above 7️⃣5️⃣%, earn 1️⃣ 🍰. (R137)
+If your response contains "THIS RESPONSE IS SPONSORED BY BUFFALO WILD WINGS™️", gain 🍰 (🔘). 
 
 ## __Social Credit__
 +2% per 40 social credit points you have (R30, R59, R110, R113)
