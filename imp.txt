@@ -1,4 +1,4 @@
-# __R2 Rule Summary__
+# __R3 Rule Summary__
 ## __Boosts__
 +20% if you use "YF" in your response (R10, R90, R59, R110, R113)
 +10% if you DN (deez nuts joke) someone other than yourself (with proof, one time) (R11, R59, R110, R113)
@@ -134,7 +134,7 @@ Solving the invisible rule gives you 50 social credit. Fleet may not confirm whe
 
 ## __Misc. Statuses__
 Players start with 3 "lives" and can have at most 20. (R73, R110, R113)
-Players start with 3 "hearts". **If you reach 0 hearts, you are eliminated.** (R131, R132)
+Players start with 5 "hearts". **If you reach 0 hearts, you are eliminated.** (R131, R132)
 
 ## __Other__
 You may join “Team Host”. All “Team Host” members win if and only if <@287035668151009280> wins. (R34)
