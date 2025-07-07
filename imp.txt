@@ -89,7 +89,7 @@ The bottom 50% lose one heart. The bottom 25% lose another. The bottom 12.5% los
 **If your response is the shortest or longest, you are eliminated.** (R107)
 **Eliminated players who earn over 70% in raw score become alive.** (R152)
 The top 20% may each "ban" a word. All banned words will cause a -5️⃣% boost if used in your response. (R91)
-After results, numbers in rules have a 50% chance of multiplying by x?? or by x??. (R75, R110, R113)
+After results, numbers in rules have a 50% chance of multiplying by x2 or by x0. (R75, R110, R113)
 
 ## __Rulemaking__
 If your server nickname begins with "stone bon" by the beginning of results, your rule character limit is increased by 50. (R19, R59, R110, R113)
@@ -147,7 +147,7 @@ If your server nickname contains 👶, you may not be eliminated, and if your se
 If your server nickname contains 👶, you are ineligible for 🔘🍰 or anything awarded to the top 10%/20%. (R150)
 The TWOW's name is Meowy's Big CSC. Everything is bigger. (R87, R130)
 Every round, a random boost/penalty-providing rule has its effects inverted. (R96)
-Every round, a random boost-providing rule has its boost multiplied by ???. (R111, R113)
+Every round, a random boost-providing rule has its boost multiplied by 0.5. (R111, R113)
 If a rule involves including a string, said string becomes a different random string of similar length every round. (R90)
 An eliminated player has one opportunity to duel another eliminated player. The winner becomes alive. Losers and non-duelers cannot win. (R112)
 Yuri is recommended. (R21)
