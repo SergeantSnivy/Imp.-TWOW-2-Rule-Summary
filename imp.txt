@@ -42,6 +42,7 @@ You may submit a list of contestants equal or less in size to the amount who pla
 -10% if you mention Rule 104. (R104, R113)
 +5% if you get someone to ask what Rule 114 is. (R114)
 x2️⃣ score if your response has at most 4️⃣9️⃣ words. (R120)
+You may pick 3 rules (not your own): their authors each get +3%. (R126)
 +15% if you review every response. -10% if Fleet finds anything you say negative or insincere. (R127)
 +3% if your response contains a reference to Undertale or Deltarune. (R139)
 +5% if your response contains a Balatro reference. (R143)
