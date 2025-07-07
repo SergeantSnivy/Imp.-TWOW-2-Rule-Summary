@@ -107,6 +107,7 @@ All rules after R82 will have "JK!!!" appended. This has no effect on the rules,
 The top 10% NR each round collude to make one extra rule, with the character limit being the mean character limit of everyone. (R88)
 You may exchange X rule characters to remove a rule with character count X. (R115)
 Before results, pick a rule that grants a boost or penalty: the most commonly picked rule has its effect quadrupled. (R128)
+Each round, you may pick any amount of rules to propose to remove. If a rule is picked by at least 5 players, its removal is polled as a public referendum. The rule is removed if a majority of players vote "yes". (R140)
 After all character-adding rules are applied, your rule character limit is halved. You will still have 25 characters at minimum. (R153)
 All technical rules, except any involving Invisible Rules, have their effect halved after one round and lose all effect after two rounds. (R155)
 
